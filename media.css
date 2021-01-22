@@ -1,0 +1,67 @@
+/* スマホ */
+@media screen and (max-width: 480px){
+	.header {
+		max-width:480px;
+	}
+	.container ,.container2{
+		max-width:350px;
+	}
+	.container3 {
+		max-width:350px;
+		width:100%;
+	}
+	.p img {
+		width:100%;
+		margin-right:0px;
+	}
+	.header-logo {
+		padding-left:10px;
+	}
+	#top-btn {
+		font-size:30px;
+		padding-top:15px;
+	}
+	.header-menu li{
+		padding:10px 15px;
+	}
+	.header-menu {
+		box-sizing: border-box;
+		padding:10px 10px;
+		margin:0 auto;
+	}
+	.main1 {
+		background-position-x: center;
+		background-position-y: center;
+		height: 130vw;
+	}
+	.discription h1 {
+		font-size:30px;
+	}
+	.discription p {
+		font-size:15px;
+	}
+	.register a {
+		margin-top:50px;
+		padding:10px 30px;
+		font-size:13px;
+	}
+	.look a {
+		margin-top:50px;
+		padding:10px 30px;
+		font-size:13px;
+	}
+	.box1 {
+		margin:30px;
+	}
+	.r img {
+		width:100%;
+	}
+	.main3 {
+		height: 1450px;
+	}
+	.register2 a{
+		margin-top:70px;
+		padding:10px 30px;
+		font-size:13px;
+	}
+}
